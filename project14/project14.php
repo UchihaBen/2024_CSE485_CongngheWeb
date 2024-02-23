@@ -73,9 +73,9 @@
                     <td>Reports to</td>
                     <td>
                         <select>
-                            <option>Buchanan</option>
-                            <option>ThanhLe</option>
-                            <option>Who</option>
+                            <option>hue01</option>
+                            <option>hue02</option>
+                            <option>hue03</option>
                         </select>
                     </td>
                 </tr>
