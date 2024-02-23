@@ -1,0 +1,31 @@
+.container{
+    margin: 0 5%;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: space-around;
+ }
+ .course {
+    background-color: #f9f9f9;
+    padding: 10px;
+    margin-bottom: 20px;
+    width: 350px;
+ 
+ }
+ .course img{
+    width: 100%;
+ }
+ .course h2 {
+    color: #333;
+ }
+ .course p {
+    color: #666;
+ }
+ h3{
+    color: brown;
+    padding-left: 3px;
+    border-left: 1px solid red;
+    margin-left: 100px;
+ }
+ i{
+    color: brown;
+ }
