@@ -1,0 +1,18 @@
+.underLine {
+    border-bottom: 1px solid #ccc;
+}
+
+.submit button {
+    background-color: #ccc
+}
+.form{
+    box-sizing: border-box;
+    height: 1200px;
+    width: 700px;
+    margin: 5 5;
+    border: 7px solid gray;
+}
+.ip{
+    margin-right: 20px;
+    width: 500px;
+}

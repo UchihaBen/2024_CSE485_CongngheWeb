@@ -154,8 +154,8 @@
                     <input type="text" class="ip"  value="EmpID9.bmp">
                 </td>
             </tr>               
-            </table>
-        </div>
+        </table>
+    </div>
     </div>
 
 
@@ -167,7 +167,7 @@
             <tr>
                 <td>Notes</td>
                 <td>
-                    <textarea name="post_content" id="post_content" rows="10" cols="100"></textarea>
+                    <textarea name="post_content" id="post_content" rows="8" cols="65"></textarea>
                 </td>
             </tr>
             <tr>
@@ -195,6 +195,19 @@
         </table>
     </div>
     </div>
+
+    <p class=""></p>
+        <div class="d-flex justify-content-between">
+            <div>
+                <button ><i class="fa-solid fa-caret-left"></i></button>
+                <button ><i class="fa-solid fa-caret-right"></i></button>
+
+            </div>
+            <div>
+                <button type="button"><i class="fa-solid fa-square-caret-left"></i> Submit</button>
+                <button type="button"><i class="fa-solid fa-square-caret-right"></i> Cancel</button>
+            </div>
+        </div>
 
 
 </div>
