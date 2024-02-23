@@ -27,7 +27,7 @@
                 <tr>
                     <td>First name</td>
                     <td>
-                        <input type="text" class=" ip" value="Anne">
+                        <input type="text" class="inputtext" value="Anne">
                     </td>
                 </tr>
                 <tr>
@@ -42,31 +42,31 @@
                 <tr>
                     <td>Title</td>
                     <td>
-                        <input type="text" class="ip"  value="Sales Representative">
+                        <input type="text" class="inputtext"  value="Sales Representative">
                     </td>
                 </tr>
                 <tr>
                     <td>Suffix</td>
                     <td>
-                        <input type="text" class="ip"  value="Ms.">
+                        <input type="text" class="inputtext"  value="Ms.">
                     </td>
                 </tr>
                 <tr>
                     <td>BirthDate</td>
                     <td>
-                        <input type="text" class="ip"  value="1969-07-02 00:00:00">
+                        <input type="text" class="inputtext"  value="1969-07-02 00:00:00">
                     </td>
                 </tr>
                 <tr>
                     <td>HireDate</td>
                     <td>
-                        <input type="text" class="ip"  value="1994-11-15 00:00:00">
+                        <input type="text" class="inputtext"  value="1994-11-15 00:00:00">
                     </td>
                 </tr>
                 <tr>
                     <td style="width : 150px">SSN # (if applicable)</td>
                     <td>
-                        <input type="text" class="ip"  value="">
+                        <input type="text" class="inputtext"  value="">
                     </td>
                 </tr>
                 <tr>
@@ -92,31 +92,31 @@
             <tr>
                 <td>Email</td>
                 <td>
-                    <input type="text" class="ip"  placeholder="name@example.com">
+                    <input type="text" class="inputtext"  placeholder="name@example.com">
                 </td>
             </tr>
             <tr>
                 <td>Andress</td>
                 <td>
-                    <input type="text" class="ip"  value="7 Houndstooth Rd.">
+                    <input type="text" class="inputtext"  value="7 Houndstooth Rd.">
                 </td>
             </tr>
             <tr>
                 <td>City</td>
                 <td>
-                    <input type="text" class="ip"  value="London">
+                    <input type="text" class="inputtext"  value="London">
                 </td>
             </tr>
             <tr>
                 <td>Region</td>
                 <td>
-                    <input type="text" class="ip" name="option" id="" value="">
+                    <input type="text" class="inputtext" name="option" id="" value="">
                 </td>
             </tr>
             <tr>
                 <td>Postal Code</td>
                 <td>
-                    <input type="text" class="ip"  value="WG2 7LT">
+                    <input type="text" class="inputtext"  value="WG2 7LT">
                 </td>
             </tr>
             <tr>
@@ -145,13 +145,13 @@
             <tr class>
                 <td style="width : 150px" >US Home Phone</td>
                 <td>
-                    <input type="text" class="ip" name="option" id="" value="(234)234-2342">
+                    <input type="text" class="inputtext" name="option" id="" value="(234)234-2342">
                 </td>
             </tr>
             <tr>
                 <td>Photo</td>
                 <td>
-                    <input type="text" class="ip"  value="EmpID9.bmp">
+                    <input type="text" class="inputtext"  value="EmpID9.bmp">
                 </td>
             </tr>               
         </table>
@@ -188,7 +188,7 @@
                     <div>
                         <h2 id="randomWord fw-bold"></h2>
                         <button type="button" class="fw-bold col-12 border-0 bg-white" id="btnChange">Click to change</button>
-                        <input type="text" class="ip" name="human" id="">
+                        <input type="text" class="inputtext" name="human" id="">
                     </div>
                 </td>
             </tr>
