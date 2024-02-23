@@ -74,7 +74,7 @@
     ],
  ];
  // Hiển thị danh sách khóa học
- echo "<h3>KHOÁ HỌC SẮP KHAI GIẢNG</h3>";
+ echo "<h1>KHOÁ HỌC SẮP KHAI GIẢNG</h1>";
  echo '<div class="container">';
  foreach ($courses as $course) {
     echo '<div class="course">';

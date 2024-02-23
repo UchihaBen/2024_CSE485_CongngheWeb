@@ -1,3 +1,9 @@
+h1{
+    color: brown;
+    padding-left: 3px;
+    border-left: 1px solid red;
+    margin-left: 100px;
+ }
 .container{
     margin: 0 5%;
     display: grid;
@@ -20,12 +26,7 @@
  .course p {
     color: #666;
  }
- h3{
-    color: brown;
-    padding-left: 3px;
-    border-left: 1px solid red;
-    margin-left: 100px;
- }
+
  i{
     color: brown;
  }
