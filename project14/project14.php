@@ -196,13 +196,13 @@
     </div>
     </div>
 
-    <p class=""></p>
-        <div class="d-flex justify-content-between">
+        <div>
             <div>
                 <button ><i class="fa-solid fa-caret-left"></i></button>
                 <button ><i class="fa-solid fa-caret-right"></i></button>
 
             </div>
+
             <div>
                 <button type="button"><i class="fa-solid fa-square-caret-left"></i> Submit</button>
                 <button type="button"><i class="fa-solid fa-square-caret-right"></i> Cancel</button>
