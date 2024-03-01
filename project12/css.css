@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    box-sizing: border-box;
+    padding: 12px 0;
+    background-color: navy;
+    height: 45px;
+}
+.background{
+    padding-right: 110px;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+li {
+    color: white;
+    padding: 0 20px 0 20px;
+    border: 5px 0 5px 0;
+    
+  }
+  li:not(:first-child){
+    border-left: 1px solid white;
+  }
+
