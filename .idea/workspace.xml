@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a69b19d-a4ee-4469-abfe-01967d35cb49" name="Changes" comment="add">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TelephoneDirectory/app/config/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/TelephoneDirectory/app/config/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TelephoneDirectory/app/controllers/DepartmentController.php" beforeDir="false" afterPath="$PROJECT_DIR$/TelephoneDirectory/app/controllers/DepartmentController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TelephoneDirectory/app/models/Department.php" beforeDir="false" afterPath="$PROJECT_DIR$/TelephoneDirectory/app/models/Department.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TelephoneDirectory/app/models/Employee.php" beforeDir="false" afterPath="$PROJECT_DIR$/TelephoneDirectory/app/models/Employee.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TelephoneDirectory/app/models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/TelephoneDirectory/app/models/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TelephoneDirectory/app/services/DepartmentService.php" beforeDir="false" afterPath="$PROJECT_DIR$/TelephoneDirectory/app/services/DepartmentService.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TelephoneDirectory/app/views/departments/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/TelephoneDirectory/app/views/departments/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +54,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/laragon/www/2024_CSE485_CongngheWeb",
+    "last_opened_file_path": "C:/laragon/www/Patients",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -72,7 +80,8 @@
       <updated>1709950738690</updated>
       <workItem from="1709950739724" duration="4336000" />
       <workItem from="1709972256567" duration="735000" />
-      <workItem from="1709992517176" duration="900000" />
+      <workItem from="1709992517176" duration="1246000" />
+      <workItem from="1709996610774" duration="585000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <option name="closed" value="true" />

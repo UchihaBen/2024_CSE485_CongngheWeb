@@ -1,6 +1,5 @@
 <?php
 
-
 class DepartmentService
 {
     public function getAllDepartment()
@@ -8,17 +7,17 @@ class DepartmentService
         $connection = new Connection();
         $conn = $connection->getConnection();
         if ($conn) {
-            $sql = "select * from patients";
+            $sql = "select * from Departments";
             $stmt = $conn->query($sql);
-            $patients = [];
+            $departments = [];
             foreach ($stmt as $row) {
-                $patient = new Patient($row['id'], $row['fullname'], $row['gender'], $row['dateOfBirth'], $row['address'], $row['mobile']);
-                $patients[] = $patient;
+                $department = new Department($row['DepartmentID'], $row['DepartmentName'], $row['Address'], $row['Email'], $row['Phone'], $row['Logo'], $row['Website'], $row['ParentDepartmentID']);
+                $departments[] = $department;
             }
 
-            return $patients;
+            return $departments;
         } else {
-            return $patients = [];
+            return $departments = [];
         }
     }
 }
