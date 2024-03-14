@@ -1,6 +1,6 @@
 <?php
 
-class gitDepartment {
+class Department {
     private $DepartmentID;
     private $DepartmentName;
     private $Address;
