@@ -36,13 +36,3 @@ class User {
         return $this->EmployeeID;
     }
 }
-
-// Ví dụ sử dụng
-$user1 = new User('admin', 'admin123', 'admin', 1);
-$user2 = new User('user123', 'user456', 'regular', 2);
-
-// Truy cập thuộc tính
-echo "Tên người dùng: " . $user1->getUsername() . "\n";
-echo "Vai trò: " . $user2->getRole() . "\n";
-echo "ID nhân viên: " . $user2->getEmployeeID() . "\n";
-?>

@@ -65,12 +65,5 @@ class Employee {
     }
 }
 
-// Ví dụ sử dụng
-$employee1 = new Employee(1, 'Nguyễn Văn A', '123 Đường ABC', 'a@example.com', '123-456-7890', 'Developer', 'avatar.jpg', 1);
-$employee2 = new Employee(2, 'Trần Thị B', '456 Đường XYZ', 'b@example.com', '987-654-3210', 'HR Manager', null, 2);
 
-// Truy cập thuộc tính
-echo "Họ và tên: " . $employee1->getFullName() . "\n";
-echo "Địa chỉ: " . $employee2->getAddress() . "\n";
-echo "ID phòng ban: " . $employee2->getDepartmentID() . "\n";
-?>
+
